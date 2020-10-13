@@ -1,0 +1,28 @@
+body{
+		/*  Background */
+		background-color:rgb(204,208,211);  
+		font-family: Monospace;
+	
+	}
+#nav li{					
+		display:inline;
+		padding:10px;
+	}
+/* h1{ */
+		/* font-family: Monospace; */
+	/* }  */
+#box{
+	/* Light Gold Background */
+	background-color:hsl(51, 75%, 80%);
+
+	border: 2px solid black; 
+	width:800px;
+	padding:20px;
+	margin:10px;
+}
+header{
+	/* Light Gold */
+	background-color:hsl(51, 75%, 80%);
+	 /* gold, rgb(240,192,30) hsl(51, 95%, 50%) */
+	/* background-image: linear-gradient(to bottom right, gold, hsl(51, 75%, 80%)); */
+}
